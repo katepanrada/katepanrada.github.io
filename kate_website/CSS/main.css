@@ -1,0 +1,204 @@
+#home-na {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(65, 42, 15);
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: rgb(109, 66, 31);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.title {
+    text-align: center;
+    font-size: 200%;
+    color: rgb(68, 42, 25);
+    background-color: rgb(184, 154, 116);
+    padding: 5%;
+    margin: 1%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#title h1 {
+    margin-bottom: 0px;
+}
+.name {
+    font-size: 100%;
+    color: beige;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+html {
+    background-color: rgb(247, 231, 213);
+}
+
+#welcome {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 55%;
+}
+
+#home-img {
+    padding-left: 5%;
+    margin-top: -200%;
+    
+}
+
+#intro-p {
+        font-size: 130%;
+        width: 300px;
+        border: 15px solid rgb(73, 43, 8);
+        padding: 5%;
+        margin-left: 55%;
+        text-align: center;
+        margin-bottom: -0.5cm;
+}
+ .intro-3 {
+        font-size: larger;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+ }
+
+ .info-p {
+     font-size: larger;
+     padding: 2%;
+     background-color: rgb(223, 204, 175);
+     width: 800pt;
+     margin-right: 2%;
+ }
+
+ .topic {
+     background-color: rgb(177, 147, 109);
+     padding: 1%;
+     width: 250pt;
+     font-size: 20px;
+ }
+
+#harddisk-img {
+    width: 10cm;
+    float: right;
+}
+     
+ #email-link {
+    background-color: rgb(184, 154, 116);
+    color: white;
+    text-align: center;
+    padding: 1cm;
+    font-size: larger;
+ }
+  
+.chap3-head {
+    background-color:rgb(230, 204, 172);
+    text-align: center;
+    padding: 1cm;
+    font-size: 250%;
+}
+
+#chap3-intro {
+    background-color:rgb(240, 219, 193);
+    text-align: center;
+    padding: 1cm;
+    font-size: 150%;
+}
+
+#list-content {
+    background-color:rgb(226, 214, 199);
+    text-align: center;
+    padding: 1cm;
+    font-size: 150%;
+    color: rgb(78, 51, 16);
+    padding-left: 6cm;
+}
+
+#animeex-img {
+    width: 7cm;
+    float: right;
+    padding-right: 2cm;
+}
+
+#table1-img {
+    float: right;
+    padding-right: 4cm;
+    padding-top: 1cm;
+    width: 10cm;
+}
+
+#stacks-img {
+    float: right;
+    padding-right: 4cm;
+    padding-top: 0.4cm;
+    width: 5cm;
+    padding-left: 0.4cm;
+}
+
+#video-you {
+   padding-left:9cm;
+}
+
+#video-youli {
+    text-align: center;
+
+}
+
+.style206 {
+    font-size: larger;
+}
+
+#harddisk2-img {
+    width: 8cm;
+    float: left;
+    padding-top: -6cm;
+}
+
+#portable-img {
+    width: 8cm;
+    float: right;
+    padding-top: 3cm;
+    padding-right: 0.5cm;
+}
+
+#magnetic-img {
+    width: 8cm;
+    float: left;
+    padding-top: 3cm;
+    padding-left: 2cm;
+}
+
+#chap4conti {
+    text-align: center;
+    font-size: 2cm;
+    background-color: burlywood;
+}
+
+#intro-p2 {
+        font-size: 130%;
+        width: 300px;
+        border: 15px solid rgb(73, 43, 8);
+        padding: 5%;
+        text-align: center;
+        margin-bottom: -4cm;
+        margin-left: 3cm;
+}
+
+#book-img {
+    width: 7cm;
+    float: right;
+    padding-right: 5cm;
+}
